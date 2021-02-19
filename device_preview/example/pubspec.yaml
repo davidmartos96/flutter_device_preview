@@ -19,7 +19,7 @@ dependencies:
     git:
       url: https://github.com/FluentChange/flutter_device_preview.git
       path: device_preview
-      ref: nnbd_git_dependency
+      ref: nnbd_git_dependency_ci
 dev_dependencies:
   flutter_test:
     sdk: flutter
